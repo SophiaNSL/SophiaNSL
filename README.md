@@ -2,10 +2,9 @@
 
 ## I’m a STEM girl who has passion and ambition to be a full stack engineer!😍
 
-- 🏫 Education background: Bachelor’s Degree in Electronics Engineering and Master’s Degree in Electronics and Telecommunications Engineering 
-- 📕 I’m currently learning everything about web development🤣 and I am looking for an opportunity to start my career as a junior front-end developer
+- 🏫 Education background: Master's and Bachelor’s Degree in Electronics Engineering
 - 😻I think the best way to learn is to teach what I've learnt from others, so I started my own channel on Bilibili (a Chinese video sharing and social media platform) in 07/2021 to share my knowledge about web development.
-- 🎊 2022 Goals: Find a formal job as a front-end developer
+- 🎊 Best thing in 2022: Starting my career as a software developer in Aristotle Metadata
 - 🎨 Fun fact: I love digital drawing and design with Procreate
 
 ### Languages and Tools:
