@@ -4,7 +4,7 @@
 
 - 🏫 Education background: Master's and Bachelor’s Degree in Electronics Engineering
 - 🎊 Best thing in 2022: Starting my career as a software developer in Aristotle Metadata
-- 🎨 Fun fact: I love digital drawing and design with Procreate
+- 🎨 Hobbies: digital drawing and design with Procreate, Switch games: Zelda and Monster Hunter Rise
 
 ### Languages and Tools:
 
