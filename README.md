@@ -3,7 +3,6 @@
 ## I’m a STEM girl who has passion and ambition to be a full stack engineer!😍
 
 - 🏫 Education background: Master's and Bachelor’s Degree in Electronics Engineering
-- 😻I think the best way to learn is to teach what I've learnt from others, so I started my own channel on Bilibili (a Chinese video sharing and social media platform) in 07/2021 to share my knowledge about web development.
 - 🎊 Best thing in 2022: Starting my career as a software developer in Aristotle Metadata
 - 🎨 Fun fact: I love digital drawing and design with Procreate
 
