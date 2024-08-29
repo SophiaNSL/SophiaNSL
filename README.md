@@ -2,7 +2,6 @@
 
 ## I’m a STEM girl who has passion and ambition to be a full stack engineer!😍
 
-- 🏫 Education background: Master's and Bachelor’s Degree in Electronics Engineering
 - 🎊 Best thing in 2022: Starting my career as a software developer in Aristotle Metadata
 - 🎨 Hobbies: digital drawing and design with Procreate, Switch games: Zelda and Monster Hunter Rise
 
